@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-ts",
-    "slug": "expo-ts",
+    "name": "rentalresidence",
+    "slug": "rentalresidence",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
